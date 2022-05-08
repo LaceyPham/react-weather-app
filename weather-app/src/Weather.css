@@ -2,8 +2,10 @@
   font-family: "Montserrat", sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
-  border-radius: 4px;
+  border-radius: 16px;
   color: rgb(135, 135, 135);
+  background: white;
+  box-shadow: 0px 30px 50px rgba(65, 50, 100, 0.08);
 }
 
 .Weather h1 {
