@@ -49,3 +49,19 @@
   line-height: 1;
   top: -34px;
 }
+
+.Weather .search-input {
+  background: #fef7fb;
+  display: inline-block;
+  border-radius: 6px;
+  color: rgba(39, 33, 66, 0.4);
+}
+
+.Weather .search-input::placeholder {
+  line-height: 20px;
+  color: rgba(39, 33, 66, 0.4);
+}
+
+.Weather .btn:hover {
+  background: #ef9c9c;
+}
