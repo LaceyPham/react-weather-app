@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-animated-weather": "^4.0.1",
+    "weather-icons-react": "^1.2.0"
+  }
+}

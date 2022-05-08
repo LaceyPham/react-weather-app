@@ -1,0 +1,109 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-attachment: fixed;
+  background: linear-gradient(
+    44.8deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
+  );
+}
+h1 {
+  font-family: "Yellowtail", cursive;
+  font-weight: 600;
+  font-size: 50px;
+  color: #ffafaf;
+}
+
+.main-background {
+  background: #ffffffe5;
+  margin: 20px auto;
+  padding: 15px;
+  border-radius: 20px;
+  max-width: 1000px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+#date {
+  font-family: "Merriweather", serif;
+  padding-bottom: -50px;
+}
+
+#notes {
+  font-family: "Merriweather", serif;
+  margin-top: 10px;
+}
+
+.search-city-bar {
+  margin: 25px 0px 0px -1px;
+}
+
+::placeholder {
+  font-size: 11px;
+}
+.col-6 {
+  padding-left: 60px;
+  padding-top: 10px;
+}
+
+.temperature {
+  font-weight: 400;
+  font-size: 60px;
+  color: #36454f;
+}
+
+.weather-forecast-date,
+.weather-forecast-temperature-min {
+  opacity: 0.6;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+  color: #000;
+}
+
+.weather-icon {
+  vertical-align: top;
+  color: rgba(255, 136, 102, 0.67) -53.1%;
+}
+
+.information {
+  margin-top: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+
+#current-location-button:hover {
+  background-color: #ffafaf;
+  color: white;
+}
+
+.daily-weather {
+  text-align: center;
+  font-size: 15px;
+  margin: 30px 15px 15px 15px;
+  padding: 20px 20px;
+}
+
+.today-icon {
+  size: 30px;
+}
+
+.units {
+  position: relative;
+  top: -32px;
+}
+
+.weather-icon {
+  color: black;
+}
+
+#sourceGitHub {
+  font-family: "Montserrat", sans-serif;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+}
