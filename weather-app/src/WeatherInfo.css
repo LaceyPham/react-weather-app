@@ -5,6 +5,10 @@ h1 {
   color: #ffafaf;
 }
 
+.elementsInfo{
+  color: #f65282;
+}
+
 .float-left {
   float: left !important;
 }

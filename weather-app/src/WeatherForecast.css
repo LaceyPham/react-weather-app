@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.WeatherForecast-temperatures {
+  font-style: normal;
+  line-height: 1.5;
+  color: #f65282;
+  font-weight: bold;
+}
+
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 5px;
